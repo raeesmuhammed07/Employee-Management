@@ -49,4 +49,8 @@ A RESTful Employee Management application developed using Java and Spring Boot, 
 
 **Security:** Do not commit real database passwords, API keys, or other secrets to the repository.
 
+<<<<<<< HEAD
 *Note: Status can be either `Active` or `Inactive`. It is case sensitive.* 
+=======
+*Note: Status can be either `Active` or `Inactive`. It is case sensitive.* 
+>>>>>>> b39ccf400b65b97685596e760a90093709ff70d5
